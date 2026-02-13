@@ -44,5 +44,3 @@ Concepts Used:
 - Basic Overflow Checking
 
 ---
-
-## 📂 Project Structure
